@@ -1,4 +1,4 @@
-<img width="470" height="871" alt="image" src="https://github.com/user-attachments/assets/14b13305-c784-4302-8408-6fa960719ec2" /># Python Calculator (2024)
+## Python Calculator - 2024
 
 A desktop calculator application built in Python using Tkinter during 2024.
 
