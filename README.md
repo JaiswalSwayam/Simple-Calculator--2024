@@ -5,6 +5,7 @@ A desktop calculator application built using Python and Tkinter.
 ## Features
 
 * Addition, subtraction, multiplication, and division
+* Also includes functions such as squaring and square root
 * User-friendly graphical interface
 * Error handling for invalid expressions
 * Lightweight and easy to use
